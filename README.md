@@ -1,9 +1,3 @@
-# ❤️ Namaste React 🙏
-
-### _[Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) from Zero to Hero 🚀 by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/) Founder of [NamasteDev](https://courses.namastedev.com/learn/Namaste-React). This repository for Assignment & Class Notes taken during this First Live course._
-
-## 💖 This Repository was trending on [Github](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view) 🔥
-
 - I made [🚀 FoodFire App 😍](https://foodfire-app.netlify.app/) from scratch using React.js and Parcel.js, which is the part of this course.
 
 ## 📚 [_Chapter 01 - Inception_](./Chapter%2001%20-%20Inception/) (Date: 24-12-2022)
@@ -98,9 +92,3 @@
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
-
-### 🌟 Many many Thanks to all the `Stargazers` who has supported this project with stars 🌟
-
-[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/chetannada/Namaste-React?limit=15)](https://github.com/chetannada/Namaste-React/stargazers)
